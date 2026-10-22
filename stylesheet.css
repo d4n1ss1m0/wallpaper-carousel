@@ -1,0 +1,121 @@
+.wallpaper-picker-menu-item {
+    padding: 0;
+}
+
+.wallpaper-picker-wrapper {
+    padding: 16px;
+}
+
+.wallpaper-picker-header {
+    spacing: 8px;
+    margin-bottom: 10px;
+}
+
+.wallpaper-picker-title {
+    font-weight: bold;
+}
+
+.wallpaper-refresh-button {
+    width: 28px;
+    height: 28px;
+    border-radius: 99px;
+    background-color: transparent;
+}
+
+.wallpaper-refresh-button:hover,
+.wallpaper-refresh-button:focus {
+    background-color: rgba(255, 255, 255, 0.16);
+}
+
+.wallpaper-refresh-button:active {
+    background-color: rgba(255, 255, 255, 0.24);
+}
+
+.wallpaper-grid {
+    spacing: 8px;
+}
+
+.wallpaper-row {
+    spacing: 8px;
+}
+
+.wallpaper-preview-button {
+    padding: 0;
+    border: 1px solid transparent;
+    border-radius: 9px;
+    background-color: transparent;
+}
+
+.wallpaper-preview-button:hover,
+.wallpaper-preview-button:focus {
+    background-color: rgba(255, 255, 255, 0.16);
+}
+
+.wallpaper-preview-button:active {
+    background-color: rgba(255, 255, 255, 0.24);
+}
+
+.wallpaper-preview-button-active {
+    border-color: #8b5cf6;
+}
+
+.wallpaper-preview-content {
+    spacing: 5px;
+}
+
+.wallpaper-preview-frame {
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.wallpaper-preview-label {
+    font-size: 0.88em;
+    padding: 0 2px 2px;
+}
+
+.wallpaper-empty-label {
+    padding: 8px 0;
+    font-size: 0.9em;
+}
+
+.wallpaper-nav-box {
+    spacing: 1px;
+    margin-top: 10px;
+    padding: 1px 2px;
+    border-radius: 99px;
+    background-color: rgba(255, 255, 255, 0.12);
+}
+
+.wallpaper-nav-button {
+    width: 22px;
+    height: 22px;
+    border-radius: 99px;
+    background-color: transparent;
+}
+
+.wallpaper-nav-button:hover,
+.wallpaper-nav-button:focus {
+    background-color: rgba(255, 255, 255, 0.16);
+}
+
+.wallpaper-nav-button:active {
+    background-color: rgba(255, 255, 255, 0.24);
+}
+
+.wallpaper-nav-button:insensitive {
+    opacity: 0.35;
+}
+
+.wallpaper-page-label {
+    text-align: center;
+    min-width: 38px;
+    font-size: 0.88em;
+}
+
+.wallpaper-tooltip {
+    padding: 5px 8px;
+    border-radius: 6px;
+    background-color: rgba(35, 35, 35, 0.96);
+    color: white;
+    font-size: 0.86em;
+}

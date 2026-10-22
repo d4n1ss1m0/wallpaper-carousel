@@ -1,0 +1,9 @@
+{
+  "name": "Wallpaper Carousel",
+  "description": "Quick wallpaper picker",
+  "uuid": "wallpaper-carousel@d4n1ss1m0",
+  "shell-version": [
+    "50",
+    "51"
+  ]
+}
